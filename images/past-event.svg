@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 240" role="img" aria-labelledby="title desc">
+  <title id="title">Past event illustration</title>
+  <desc id="desc">A warm illustration showing a completed event celebration.</desc>
+  <rect width="400" height="240" rx="24" fill="#fff7eb"/>
+  <circle cx="120" cy="120" r="70" fill="#ffb96b"/>
+  <rect x="200" y="70" width="110" height="90" rx="14" fill="#ffffff" stroke="#ff8c42" stroke-width="4"/>
+  <path d="M232 103h46" stroke="#ff8c42" stroke-width="8" stroke-linecap="round"/>
+  <path d="M232 126h32" stroke="#ffb96b" stroke-width="8" stroke-linecap="round"/>
+  <path d="M172 175c16-20 42-32 68-32 28 0 54 12 74 32" fill="none" stroke="#5b7cff" stroke-width="8" stroke-linecap="round"/>
+</svg>

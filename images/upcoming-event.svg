@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 240" role="img" aria-labelledby="title desc">
+  <title id="title">Upcoming event illustration</title>
+  <desc id="desc">A colorful banner with a calendar and sparkles for an upcoming event.</desc>
+  <rect width="400" height="240" rx="24" fill="#eef4ff"/>
+  <rect x="70" y="55" width="260" height="130" rx="18" fill="#ffffff" stroke="#5b7cff" stroke-width="4"/>
+  <rect x="105" y="90" width="80" height="12" rx="6" fill="#5b7cff"/>
+  <rect x="105" y="116" width="120" height="10" rx="5" fill="#9db4ff"/>
+  <rect x="105" y="138" width="95" height="10" rx="5" fill="#ced9ff"/>
+  <circle cx="300" cy="95" r="28" fill="#ffcf5c"/>
+  <path d="M300 68 l8 16 18 2-13 12 4 17-16-8-16 8 4-17-13-12 18-2z" fill="#ff8c42"/>
+  <rect x="135" y="37" width="40" height="30" rx="8" fill="#5b7cff"/>
+</svg>
