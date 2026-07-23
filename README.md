@@ -13,3 +13,5 @@ A simple event listing page built with HTML and CSS. It showcases upcoming and p
 - styles.css - Basic page styling
 - images/upcoming-event.svg - Illustration for an upcoming event
 - images/past-event.svg - Illustration for a past event
+
+![A snapshot of website]](image-1.png)
